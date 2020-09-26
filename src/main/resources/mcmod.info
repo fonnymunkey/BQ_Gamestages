@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bq_gs",
+  "name": "BetterQuesting Gamestage Expansion",
+  "description": "BetterQuesting task expansion for Gamestages",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fonnymunkey"],
+  "credits": "Funwayguy for BetterQuesting and the expansion this is based from",
+  "logoFile": "title.jpg",
+  "screenshots": [],
+  "dependencies": ["betterquesting"]
+}
+]

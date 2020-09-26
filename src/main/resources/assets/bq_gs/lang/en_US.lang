@@ -1,0 +1,4 @@
+bq_gs.task.gamestage=Task Reach Gamestage
+bq_gs.gui.stage=Gamestage: %s
+bq_gs.gui.reached=Reached!
+bq_gs.gui.nonreached=Not yet reached!
